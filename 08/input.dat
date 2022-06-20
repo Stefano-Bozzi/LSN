@@ -1,0 +1,35 @@
+1
+0.0
+1.0
+1.0
+1.0
+1.0
+2.5
+100
+1000
+0.1
+0.0005
+100
+10000
+0.1
+0.1
+
+
+
+
+
+  ReadInput >> Simulated Annealing: SA;
+  ReadInput >> x_old;
+  ReadInput >> sigma;
+  ReadInput >> mu;
+  ReadInput >> h;
+  ReadInput >> m;  
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> temp;
+  ReadInput>> delta_temp
+  ReadInput >> ntemp;
+  ReadInput >> nstep_SA;
+  ReadInput >> delta_mu;
+  ReadInput >> delta_sigma;
